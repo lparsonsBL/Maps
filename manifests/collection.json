@@ -1,0 +1,13 @@
+{
+  "id" : "https://lparsonsBL.github.io/Maps/manifests/collection.json",
+  "label" : {
+    "en" : [ "All manifests loaded in lparsonsBL/Maps project" ]
+  },
+  "type" : "Collection",
+  "@context" : "http://iiif.io/api/presentation/3/context.json",
+  "items" : [ {
+    "@type" : "sc:Manifest",
+    "@id" : "https://lparsonsBL.github.io/Maps/manifests/manifest2.json",
+    "label" : "Maps"
+  } ]
+}
