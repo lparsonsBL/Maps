@@ -3,6 +3,11 @@
   "@id" : "https://lparsonsBL.github.io/Maps/manifests/manifest4.json",
   "@type" : "sc:Manifest",
   "label" : "Maps",
+  "service" : {
+    "profile" : "http://iiif.io/api/search/0/search",
+    "@id" : "https://dev.gdmrdigital.com/search-api/1245635613/102225876/d36bcc4928be497b96f5116e3122c9ce/search",
+    "@context" : "http://iiif.io/api/search/0/context.json"
+  },
   "metadata" : [ ],
   "description" : [ {
     "@value" : "This is a collection of maps from the British Library.",
