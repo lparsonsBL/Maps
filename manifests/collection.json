@@ -9,5 +9,9 @@
     "@type" : "sc:Manifest",
     "@id" : "https://lparsonsBL.github.io/Maps/manifests/manifest2.json",
     "label" : "Maps"
+  }, {
+    "@type" : "sc:Manifest",
+    "@id" : "https://lparsonsBL.github.io/Maps/manifests/manifest4.json",
+    "label" : "Maps"
   } ]
 }
