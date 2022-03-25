@@ -50,6 +50,11 @@
         },
         "on" : "http://4e0c5f9e-ebce-45c6-b7b8-a8d413be47c1"
       } ],
+      "otherContent" : [ {
+        "@id" : "https://lparsonsbl.github.io/Maps/annotations/1e8442b181753d8406c11bd461427751.json",
+        "@type" : "sc:AnnotationList",
+        "label" : "My fantastic annotations"
+      } ],
       "related" : ""
     }, {
       "@id" : "http://a470ff36-1930-45ef-8cf2-b17a23561993",
