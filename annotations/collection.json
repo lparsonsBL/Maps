@@ -1,6 +1,6 @@
 {
   "@type" : "sc:Layer",
-  "otherContent" : [ ],
+  "otherContent" : [ "https://lparsonsBL.github.io/Maps/annotations/1e8442b181753d8406c11bd461427751.json" ],
   "@id" : "https://lparsonsBL.github.io/Maps/annotations/collection.json",
   "label" : "All annotations loaded in lparsonsBL/Maps project",
   "@context" : "http://iiif.io/api/presentation/2/context.json"
