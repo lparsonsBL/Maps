@@ -1,0 +1,138 @@
+{
+  "@type" : "sc:AnnotationList",
+  "resources" : [ {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Farbus",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Farbus</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/102225876",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2022-03-25T09:35:50",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1648200950631",
+    "dcterms:modified" : "2022-03-25T09:35:50",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://lparsonsBL.github.io/Maps/manifests/manifest4.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=1695,2891,48,72"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1719.25292,2962.48295c0,-15.93975 7.96988,-31.8795 23.90963,-47.81925c0,-13.20492 -10.7047,-23.90963 -23.90963,-23.90963c-13.20492,0 -23.90963,10.7047 -23.90963,23.90963c15.93975,15.93975 23.90963,31.8795 23.90963,47.81925z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;fixedSize&quot;:true,&quot;editable&quot;:true,&quot;deleteIcon&quot;:null,&quot;annotation&quot;:null}\" id=\"pin_7dc8b72a-256c-43b5-9448-07f762bfb3fb\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://4e0c5f9e-ebce-45c6-b7b8-a8d413be47c1"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Arieux-en-Gohelle",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Arieux-en-Gohelle</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/102225876",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2022-03-25T09:36:30",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1648200990869",
+    "dcterms:modified" : "2022-03-25T09:36:30",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://lparsonsBL.github.io/Maps/manifests/manifest4.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=5749,2046,48,72"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M5772.73141,2117.67619c0,-15.93975 7.96988,-31.8795 23.90963,-47.81925c0,-13.20492 -10.7047,-23.90963 -23.90963,-23.90963c-13.20492,0 -23.90963,10.7047 -23.90963,23.90963c15.93975,15.93975 23.90963,31.8795 23.90963,47.81925z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;fixedSize&quot;:true,&quot;editable&quot;:true,&quot;deleteIcon&quot;:null,&quot;annotation&quot;:null}\" id=\"pin_a9363594-9119-46bb-909b-d78c7aaf96ae\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://4e0c5f9e-ebce-45c6-b7b8-a8d413be47c1"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Willerval",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Willerval</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/102225876",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2022-03-25T09:36:02",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1648200962650",
+    "dcterms:modified" : "2022-03-25T09:36:02",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://lparsonsBL.github.io/Maps/manifests/manifest4.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=2590,2757,48,72"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M2613.47295,2828.58904c0,-15.93975 7.96988,-31.8795 23.90963,-47.81925c0,-13.20492 -10.7047,-23.90963 -23.90963,-23.90963c-13.20492,0 -23.90963,10.7047 -23.90963,23.90963c15.93975,15.93975 23.90963,31.8795 23.90963,47.81925z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;fixedSize&quot;:true,&quot;editable&quot;:true,&quot;deleteIcon&quot;:null,&quot;annotation&quot;:null}\" id=\"pin_a4e3eb89-e358-44c4-acfa-c01c7034a422\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://4e0c5f9e-ebce-45c6-b7b8-a8d413be47c1"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Bailleul",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Bailleul</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/102225876",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2022-03-25T09:36:51",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1648201011225",
+    "dcterms:modified" : "2022-03-25T09:36:51",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://lparsonsBL.github.io/Maps/manifests/manifest4.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=3057,5363,48,72"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M3080.50776,5434.73833c0,-15.93975 7.96988,-31.8795 23.90963,-47.81925c0,-13.20492 -10.7047,-23.90963 -23.90963,-23.90963c-13.20492,0 -23.90963,10.7047 -23.90963,23.90963c15.93975,15.93975 23.90963,31.8795 23.90963,47.81925z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;fixedSize&quot;:true,&quot;editable&quot;:true,&quot;deleteIcon&quot;:null,&quot;annotation&quot;:null}\" id=\"pin_444ebd9d-e27f-49c8-8f7b-91bfd0309151\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://4e0c5f9e-ebce-45c6-b7b8-a8d413be47c1"
+    } ]
+  } ],
+  "@id" : "https://lparsonsBL.github.io/Maps/annotations/1e8442b181753d8406c11bd461427751.json",
+  "@context" : "http://iiif.io/api/presentation/2/context.json"
+}
